@@ -1,6 +1,6 @@
-# Sales Analysis of US Region
+# Sales Prediction and Analysis
 
-Sales Analysis of US Region sales analysis of the particular company on US region from 2018-2020. Interactive dashboard has been created in Tableau to visualize the sales.
+Sales of the particular company on US region from 2018-2020 are predicted and analysis has been done. Sales are converted to date wise and timeseries model ARIMA is used to predict the sales. Interactive dashboard has been created in Tableau to visualize and analysis the sales.
 
 # CREATED BY
 [NITHISH G](https://www.linkedin.com/in/nithish-g/)
